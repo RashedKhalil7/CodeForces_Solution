@@ -1,0 +1,1 @@
+n = set(input());print('IGNORE HIM!' if len(n)%2 !=0 else 'CHAT WITH HER!')
